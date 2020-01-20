@@ -39,8 +39,8 @@ h1,h2,h4,h5,h6 {
 }
 
   #timeline {
-    width: 800px;
-    height: 350px;
+    width: 1200px;
+    height: 750px;
     overflow: hidden;
     margin: 100px auto;
     position: relative;
@@ -69,13 +69,13 @@ h1,h2,h4,h5,h6 {
         }
     
     #issues {
-      width: 800px;
-      height: 350px;
+      width: 1200px;
+      height: 750px;
       overflow: hidden;
     } 
       #issues li {
-        width: 800px;
-        height: 350px;
+        width: 1200px;
+        height: 750px;
         list-style: none;
         float: left;
       }
@@ -112,7 +112,7 @@ h1,h2,h4,h5,h6 {
     #grad_left,
     #grad_right {
       width: 100px;
-      height: 350px;
+      height: 750px;
       position: absolute;
       top: 0;
     }
